@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1083902536262-3to0olnlsapispgumun2ctmj7v6ig6qo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1083902536262-3to0olnlsapispgumun2ctmj7v6ig6qo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASnVfMEWWZrdaoQKBArzgLGw4fNIBagzw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1083902536262</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.cordova.testNot</string>
+	<key>PROJECT_ID</key>
+	<string>ionic-course-dd543</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ionic-course-dd543.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1083902536262:ios:7fba059f68ae1a98c37847</string>
+	<key>DATABASE_URL</key>
+	<string>https://ionic-course-dd543.firebaseio.com</string>
+</dict>
+</plist>
